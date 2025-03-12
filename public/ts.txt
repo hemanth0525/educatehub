@@ -1,0 +1,51 @@
+
+# tactiq.io free youtube transcript
+# HTML - Introduction - W3Schools.com
+# https://www.youtube.com/watch/it1rTvBcfRg
+
+00:00:00.040 Hello! So you wantto learn how to make websites.
+00:00:03.320 In that case you need to learn HTML!
+00:00:08.240 So let's start at the very beginning.
+00:00:10.600 What exactly is HTML?
+00:00:13.280 And why do I need it?
+00:00:15.480 Let's break it down from the basics,and build our way up.
+00:00:19.680 HTML stands for HyperText Markup Language.
+00:00:23.520 It uses markup to describethe structure of web pages.
+00:00:28.160 The structure is built up by elements,and they are represented by tags!
+00:00:32.840 Tags label pieces of contentsuch as "heading"
+00:00:37.440 "paragraph" "table" and so on.
+00:00:42.880 These tags aren't shown on the page,
+00:00:44.800 but are used to display contentin different ways.
+00:00:49.160 That's a lot to digest!
+00:00:50.600 So let's go into it.
+00:00:52.480 First let's try it together.
+00:00:55.320 Don't worry about understanding,it'll all click as we work through it.
+00:01:00.800 We start by declaringthat this is an HTML document.
+00:01:05.280 The  is the rootelement of any HTML page.
+00:01:10.600 The  contains meta informationabout the document.
+00:01:15.200 The  element specifiesa title for the document.
+00:01:20.200 The  containsthe visible page content.
+00:01:24.720 Finally, the  defines a large heading,while  defines a paragraph.
+00:01:30.280 With everything set in the order, let's
+00:01:33.480 go into the explanation of how tags work.
+00:01:36.600 Tags typically come in pairs.
+00:01:39.520 A start tag, and the end tag.
+00:01:43.040 The end tag is writtenjust like the start tag,
+00:01:46.040 but with a forward slash insertedbefore the tag name.
+00:01:50.520 Here we've got the tag nameand the forward slash tag name.
+00:01:53.720 And the contents of the elementin between them.
+00:01:57.600 So if this was a paragraph, we'd use ---  and some text in the middle.
+00:02:06.560 Let's play a game.
+00:02:07.320 See if we can correctly match start,and end tags, together.
+00:02:23.000 So what turns HTML code and elementsinto a viewable website?
+00:02:28.280 Well, that's where web browsers come in.
+00:02:30.920 The purpose of a web browser, beit Chrome, Firefox, Edge,
+00:02:34.600 or Safari, is to read HTML documentsand display them.
+00:02:39.240 But, the browserdoes not display the HTML code.
+00:02:42.160 Instead, it uses it, to determinehow to display the document.
+00:02:47.880 Let's see what kind of building blocksare hidden behind this webpage.
+00:02:53.400 This is a visualizationof an HTML page structure.
+00:02:57.440 You can see the HTML,the head, with the page title
+00:03:00.960 below that, and then the body under that.
+00:03:04.760 And that's the basics.
+00:03:06.360 Let's delve into this further,but for now, take a break.
